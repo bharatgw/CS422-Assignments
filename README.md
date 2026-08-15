@@ -12,8 +12,8 @@ University-issued question papers are intentionally not included. The answer PDF
 
 | Path | Topics |
 | --- | --- |
-| `Assignment 1/` | Bayesian-network inference and MDP solutions using value iteration and linear programming. |
-| `Assignment 2/` | Multi-armed bandits, DQN and REINFORCE for Pong, and behavioural cloning for CartPole. |
+| [`Assignment 1/`](./Assignment%201) | Bayesian-network inference and MDP solutions using value iteration and linear programming. |
+| [`Assignment 2/`](./Assignment%202) | Multi-armed bandits, DQN and REINFORCE for Pong, and behavioural cloning for CartPole. |
 
 Keep notebooks and weight directories together: the saved checkpoints are historical outputs associated with the adjacent notebooks.
 
